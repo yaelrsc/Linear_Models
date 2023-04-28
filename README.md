@@ -1,3 +1,3 @@
-# Linear_Models
+# **Linear_Models**
 
-El repositorio contiene el ajuste de diferentes tipos de modelos lineales.
+El repositorio contiene diferentes modelos .
